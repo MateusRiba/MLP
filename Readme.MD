@@ -1,4 +1,9 @@
-# Implementação de MLP - Introdução a Deep Learning
+# Implementação de MLP - Introdução a Deep Learning - Grupo 3
+Pedro Augusto
+Thiago Felipe
+Bruno Henrique
+Mateus Ribeiro
+Áriston Aragão 
 
 Este repositório contém a atividade prática de implementação de uma rede neural Multilayer Perceptron (MLP) utilizando **PyTorch**. O objetivo principal é consolidar os conhecimentos básicos de redes neurais, arquitetura de camadas e otimização de hiperparâmetros.
 
